@@ -11,6 +11,7 @@ public class DataMain {
 	
 	public void reu() {
 		//ServiceMain service = new ServiceMain();
+		ServiceMain.sercice();
 		//service.sercice();
 	}
 }

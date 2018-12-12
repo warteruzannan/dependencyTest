@@ -2,6 +2,7 @@ package service;
 
 import data.DataMain;
 
+@SuppressWarnings("unused")
 public class ServiceMain {
 	
 	public 	ServiceMain() {
@@ -9,5 +10,5 @@ public class ServiceMain {
 		//data.data();
 	}
 	
-	public void sercice() {}
+	public static void sercice() {}
 }
