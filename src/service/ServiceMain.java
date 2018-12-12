@@ -5,8 +5,8 @@ import data.DataMain;
 public class ServiceMain {
 	
 	public 	ServiceMain() {
-		DataMain data = new DataMain();
-		data.data();
+		//DataMain data = new DataMain();
+		//data.data();
 	}
 	
 	public void sercice() {}
